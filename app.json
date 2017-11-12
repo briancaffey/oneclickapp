@@ -4,8 +4,8 @@
   "repository": "https://github.com/heroku/button-sample",
   "keywords": ["django", "python", "heroku"],
   "env":{
-	  "DISABLE_COLLECTSTATIC":"1",
-  }
+	  "DISABLE_COLLECTSTATIC":"1"
+  },
   "addons":[
     {
 	    "plan":"heroku-postgresql"
