@@ -1,0 +1,11 @@
+{
+  "name": "Django One Click App",
+  "description": "A Template for a Django Projec that uses Django Rest Framework",
+  "repository": "https://github.com/heroku/button-sample",
+  "keywords": ["django", "python", "heroku"]
+  "addons":[
+    {
+	    "plan":"heroku-postgresql", 
+    }
+  ]
+}
